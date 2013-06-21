@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaCircuitBreaker_InCS", "AkkaCircuitBreaker_InCS\AkkaCircuitBreaker_InCS.csproj", "{0176722D-E525-46C3-AAF8-8DE80613D9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkkaCircuitBreaker_InCS_Tests", "AkkaCircuitBreaker_InCS_Tests\AkkaCircuitBreaker_InCS_Tests.csproj", "{67C94758-C318-48DD-A9E5-3BFEA2CF3734}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://matthewao.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AkkaCircuitBreaker_InCS\\AkkaCircuitBreaker_InCS.csproj
+		SccProjectName1 = AkkaCircuitBreaker_InCS
+		SccLocalPath1 = AkkaCircuitBreaker_InCS
+		SccProjectUniqueName2 = AkkaCircuitBreaker_InCS_Tests\\AkkaCircuitBreaker_InCS_Tests.csproj
+		SccProjectName2 = AkkaCircuitBreaker_InCS_Tests
+		SccLocalPath2 = AkkaCircuitBreaker_InCS_Tests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0176722D-E525-46C3-AAF8-8DE80613D9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0176722D-E525-46C3-AAF8-8DE80613D9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0176722D-E525-46C3-AAF8-8DE80613D9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0176722D-E525-46C3-AAF8-8DE80613D9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C94758-C318-48DD-A9E5-3BFEA2CF3734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C94758-C318-48DD-A9E5-3BFEA2CF3734}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C94758-C318-48DD-A9E5-3BFEA2CF3734}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C94758-C318-48DD-A9E5-3BFEA2CF3734}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
